@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="meogl">
+      <UniqueIdentifier>{9f42d1cc-dd4b-4f4b-b0fd-6df69257297d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="meogl\MEOGL.h">
+      <Filter>meogl</Filter>
+    </ClInclude>
+    <ClInclude Include="meogl\OpenGL.h">
+      <Filter>meogl</Filter>
+    </ClInclude>
+    <ClInclude Include="meogl\PixelShader.h">
+      <Filter>meogl</Filter>
+    </ClInclude>
+    <ClInclude Include="meogl\Renderer.h">
+      <Filter>meogl</Filter>
+    </ClInclude>
+    <ClInclude Include="meogl\Texture.h">
+      <Filter>meogl</Filter>
+    </ClInclude>
+    <ClInclude Include="meogl\VertexBuffer.h">
+      <Filter>meogl</Filter>
+    </ClInclude>
+    <ClInclude Include="meogl\VertexDeclaration.h">
+      <Filter>meogl</Filter>
+    </ClInclude>
+    <ClInclude Include="meogl\VertexShader.h">
+      <Filter>meogl</Filter>
+    </ClInclude>
+    <ClInclude Include="meogl\WindowsOS.h">
+      <Filter>meogl</Filter>
+    </ClInclude>
+    <ClInclude Include="meogl\IndexBuffer.h">
+      <Filter>meogl</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="meogl\PixelShader.cpp">
+      <Filter>meogl</Filter>
+    </ClCompile>
+    <ClCompile Include="meogl\Renderer.cpp">
+      <Filter>meogl</Filter>
+    </ClCompile>
+    <ClCompile Include="meogl\Texture.cpp">
+      <Filter>meogl</Filter>
+    </ClCompile>
+    <ClCompile Include="meogl\VertexBuffer.cpp">
+      <Filter>meogl</Filter>
+    </ClCompile>
+    <ClCompile Include="meogl\VertexDeclaration.cpp">
+      <Filter>meogl</Filter>
+    </ClCompile>
+    <ClCompile Include="meogl\VertexShader.cpp">
+      <Filter>meogl</Filter>
+    </ClCompile>
+    <ClCompile Include="meogl\WindowsOS.cpp">
+      <Filter>meogl</Filter>
+    </ClCompile>
+    <ClCompile Include="meogl\IndexBuffer.cpp">
+      <Filter>meogl</Filter>
+    </ClCompile>
+    <ClCompile Include="meogl\MEOGL.cpp">
+      <Filter>meogl</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
