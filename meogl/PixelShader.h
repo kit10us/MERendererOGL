@@ -3,8 +3,8 @@
 
 #pragma once
 
-#include <me/RenderInfo.h>
-#include <me/IRenderer.h>
+#include <me/render/RenderInfo.h>
+#include <me/render/IRenderer.h>
 #include <meogl/Renderer.h>
 #include <unify/Path.h>
 #include <memory>

@@ -3,10 +3,10 @@
 
 #pragma once
 
-#include <me/IOS.h>
-#include <me/IGame.h>
-#include <me/IRenderer.h>
-#include <me/Display.h>
+#include <me/os/IOS.h>
+#include <me/game/IGame.h>
+#include <me/render/IRenderer.h>
+#include <me/render/Display.h>
 #include <list>
 #include <vector>
 
